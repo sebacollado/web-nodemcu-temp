@@ -4,6 +4,6 @@ Simple prototype of a web panel that displays ambient temperature captured from 
 
 
 ### Authors:
-Sebastián Collado Montañez
+Sebastián Collado
 
-Andrés del Río Tassara
+Andrés del Río
